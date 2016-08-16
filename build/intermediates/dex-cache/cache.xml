@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="90465ee648c94c5adab0f16618b68aa527b8ddcd">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cf1fd0831b5569647663796e013edd600a9f06a8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_8e7cf998dd221ec4469d1648848c4705499c98c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_2dcf555008d4468f1c52f68278d4f9c8a0a8ae76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\1.1.0\4459414c171c7b60cdc2f089ffa72d19d773835e\realm-annotations-1.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4459414c171c7b60cdc2f089ffa72d19d773835e">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-1.1.0_bdc9e222c9a4a3e1cfb92d8e56dd815310a265b4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_3a1c1ae957f665290a295d549c4b8f4fc1898c9a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.2.1_4f56e4c3fceb04478902aead4814d645a72c7a25\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_7be584f1c4a4000ef354a0e00b297c9a91b82a4b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_2b6de74cf6b5b645c5e9f6d7006b9d580e349cf2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ba073cf828636031fdb9b0e899d5c7af38ff5236">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_19827a5c8ae014d63313e5394799b5777ced1df1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_c96bb5404533628caa1f8086f09c3bec0aae012d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_2aecacfac426a3813ac43aeddc4d593c98855302\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_0370bd4ac8b9d351d57427e607a2303a21d27c30\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\io.realm\realm-android-library\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="db73bb0b63ec60c9467b564baaf7c1e5d469c9f2">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-1.1.0_c0ad8b8f22c4d5baa54fdfe1c387169e1b9a1e94\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.2.1_de1191395f6b68216444f414cf520862d1f2317d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_28f342f5c324e9ed7e76e3a51cb97057b17d5832\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_ec941d682ed2860fc3e47abeeb6eb1dde444fb94\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_3dd4431e6b86595d5dc806d35966d69c9031c84f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_3f2cebd9e8d6b791df300e6f63942c934cae2636\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.1_d5fa878700c7e5dbab8e8e22940d17df1a627ba7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\sugengwin\AndroidStudioProjects\MyShoppingMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_a15853906b004fd73336e37818d254b1318abf74\classes.dex" />
+    </item>
+
+</items>
